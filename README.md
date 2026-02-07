@@ -1,0 +1,1 @@
+# zadanie-web-core-7.7
